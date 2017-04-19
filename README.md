@@ -1,6 +1,6 @@
 # npmtest-bootstrap-sass-webpack
 
-#### test coverage for  [bootstrap-sass-webpack (v0.0.3)](https://github.com/DylanLukes/bootstrap-sass-webpack)  [![npm package](https://img.shields.io/npm/v/npmtest-bootstrap-sass-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bootstrap-sass-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bootstrap-sass-webpack.svg)](https://travis-ci.org/npmtest/node-npmtest-bootstrap-sass-webpack)
+#### basic test coverage for  [bootstrap-sass-webpack (v0.0.3)](https://github.com/DylanLukes/bootstrap-sass-webpack)  [![npm package](https://img.shields.io/npm/v/npmtest-bootstrap-sass-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bootstrap-sass-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bootstrap-sass-webpack.svg)](https://travis-ci.org/npmtest/node-npmtest-bootstrap-sass-webpack)
 
 #### bootstrap-sass (v3.2) package for webpack
 
